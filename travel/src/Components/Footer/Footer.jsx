@@ -145,8 +145,6 @@ const Footer = () => {
           <Col lg="12" className="text-center pt-5">
             <p className="copyright">
               &copy; {year} Travel World. All Rights Reserved.
-              Designed and Developed By{" "}
-              <Link to="https://shuence.netlify.app">CodeShuence</Link>
             </p>
           </Col>
         </Row>
