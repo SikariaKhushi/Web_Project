@@ -126,7 +126,7 @@ const Footer = () => {
                   <h6 className="mb-0">Phone:</h6>
                 </div>
                 <p className="mb-0">
-                  <Link to="tel:9876543210">+91 9876543210</Link>
+                  <Link to="tel:9876543210">+91 9064057662</Link>
                 </p>
               </ListGroupItem>
 
@@ -137,7 +137,7 @@ const Footer = () => {
                   </span>
                   <h6 className="mb-0">Address:</h6>
                 </div>
-                <p className="mb-0">Pune, Maharashtra, India</p>
+                <p className="mb-0">Vellore, Tamil Nadu, India</p>
               </ListGroupItem>
             </ListGroup>
           </Col>
